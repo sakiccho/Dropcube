@@ -7,4 +7,7 @@ Cmd: compileSnippet
   api=0 type=0 insize=9591 outsize=6594 kw= ok=1
 Cmd: compileSnippet
   api=0 type=1 insize=9591 outsize=6 kw= ok=1
+<<<<<<< HEAD
+>>>>>>> parent of 880f444... Create Stage
+=======
 >>>>>>> parent of 880f444... Create Stage
